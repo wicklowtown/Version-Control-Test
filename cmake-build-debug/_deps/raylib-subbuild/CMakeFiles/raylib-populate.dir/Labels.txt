@@ -1,0 +1,14 @@
+# Target labels
+ raylib-populate
+# Source files and their labels
+/Users/pat/CLionProjects/untitled/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate
+/Users/pat/CLionProjects/untitled/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate.rule
+/Users/pat/CLionProjects/untitled/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete.rule
+/Users/pat/CLionProjects/untitled/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build.rule
+/Users/pat/CLionProjects/untitled/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure.rule
+/Users/pat/CLionProjects/untitled/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download.rule
+/Users/pat/CLionProjects/untitled/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install.rule
+/Users/pat/CLionProjects/untitled/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir.rule
+/Users/pat/CLionProjects/untitled/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch.rule
+/Users/pat/CLionProjects/untitled/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test.rule
+/Users/pat/CLionProjects/untitled/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update.rule
